@@ -5,6 +5,9 @@ title: 'Code of Conduct'
 
 # Code of Conduct
 
-Rules for being in this webring.
+Regole per far parte di questo webring.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed fuga quae labore, at adipisci mollitia consequatur possimus sint dolor corrupti unde aperiam iste cumque repudiandae enim, aliquid optio amet, quo quia. Doloribus eius atque quis. Odit, culpa saepe! Perferendis, ratione. Laboriosam ratione quod doloribus perferendis? Minus sit itaque totam eius.
+Per essere parte di questo webring basta rispondere a questi tre requisiti: il blog dev'essere di una persona bella, con un po' di nerditudine in avanzo, ma non parlare esclusivamente di temi tecnici.
+
+Definiamo persona bella, però, che il resto è chiaro: esseri umani che non supportino, promuovano ed esibiscano comportamenti o argomenti discriminatori verso gruppi meno privilegiati o rappresentati; che sappiano apprezzare un feedback costruttivo; che provino a chiedere scusa se sbagliano; a cui piaccia crescere, imparare e mettersi a confronto; a cui piaccia la musica, anche se brutta; che credano nel web, anche se mi sa che s'è fatto tardi.
+
