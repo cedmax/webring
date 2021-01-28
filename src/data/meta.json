@@ -1,13 +1,21 @@
 {
-    "title": "Nerds of the 90s",
-    "description": "This is just a demo of a webring. It could be about anything - Metal Bands, Knitting, Craft Beer, Accessibility... For this one, let's just say it's about the good old 90s.",
-    "image": "freakazoid.jpg",
-    "url": "https://webringdemo.netlify.com",
-    "repo": "https://github.com/maxboeck/webring",
+    "title": "Retronerds? Dipende!",
+    "description": "Un webring, come andava 15/20 anni fa, perchè noi siam retro e il web è bello perchè è nerd. Una serie di blog personali non (troppo) tecnici, da genti con un background tecnico",
+    "image": "pow.png",
+    "url": "https://retronerds.netlify.app",
+    "repo": "https://github.com/cedmax/webring",
     "admins": [
         {
-            "name": "Max Böck",
-            "url": "https://github.com/maxboeck"
+            "name": "cedmax",
+            "url": "https://github.com/cedmax"
+        },
+        {
+            "name": "raibaz",
+            "url": "https://github.com/raibaz"
+        },
+        {
+            "name": "dottorblaster",
+            "url": "https://github.com/dottorblaster"
         }
     ]
 }
