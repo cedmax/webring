@@ -1,7 +1,7 @@
 {
     "title": "Retronerds? Dipende!",
     "description": "Un webring, come andava 15/20 anni fa, perchè noi siam retro e il web è bello perchè è nerd. Una serie di blog personali non (troppo) tecnici, da genti con un background tecnico",
-    "image": "pow.png",
+    "image": "pow.webp",
     "url": "https://retronerds.netlify.app",
     "repo": "https://github.com/cedmax/webring",
     "admins": [
